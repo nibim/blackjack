@@ -1,0 +1,15 @@
+body{
+    background-color: darkgreen;
+    background-image: url(black_Jack.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+button{
+    background-color: gold;
+}
+.nav{
+    background-color: rgb(5, 77, 2);
+    
+}
